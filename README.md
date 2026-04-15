@@ -16,9 +16,9 @@ Generate insights to improve operational efficiency
 
 🛠️ Tools & Technologies
 SQL – Data extraction and querying
-Python (optional if used) – Data cleaning and analysis
-Power BI / Visualization Tools – Dashboard and reporting
-Excel / CSV – Data source
+Python – Data cleaning and analysis
+Power BI – Dashboard and reporting
+CSV – Data source
 
 📊 Dataset Description
 
@@ -37,7 +37,7 @@ Such datasets typically include thousands of ride records and multiple features,
 📈 Key Analysis Performed
 
 🚀 Ride Trends Analysis
-Ride volume over time (daily / weekly trends)
+Ride volume over time (daily)
 Peak hours and high-demand periods
 
 ❌ Cancellation Analysis
